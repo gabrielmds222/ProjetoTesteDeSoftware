@@ -1,0 +1,22 @@
+{
+  "name": "cypress-discovery",
+  "version": "1.0.0",
+  "description": "Primeiro projeto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmds222/ProjetoTesteDeSoftware.git"
+  },
+  "author": "Gabriel Medeiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielmds222/ProjetoTesteDeSoftware/issues"
+  },
+  "homepage": "https://github.com/gabrielmds222/ProjetoTesteDeSoftware#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
